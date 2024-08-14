@@ -1,0 +1,5 @@
+#example-grid{
+    display: grid;
+    grid-template-columns: 1fr 2fr 3fr 4fr;
+    grid-template-rows: 100px 100px 100px 100px;
+}
